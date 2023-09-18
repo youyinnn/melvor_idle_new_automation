@@ -1,0 +1,5 @@
+{
+  "namespace": "new_automation",
+  "setup": "setup.mjs",
+  "load": ["assets/style.css"]
+}
