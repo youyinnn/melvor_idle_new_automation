@@ -1,5 +1,6 @@
 {
   "namespace": "new_automation",
+  "icon": "icon.png",
   "setup": "setup.mjs",
-  "load": ["assets/style.css"]
+  "logo_attribution": "Flaticon: https://www.flaticon.com/free-icon/engineering_3079162"
 }
